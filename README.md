@@ -1,5 +1,4 @@
 # NNFL
-Python Implementation for the assignments of the course Neural Networks.
 
 ### Assignment 1
     
